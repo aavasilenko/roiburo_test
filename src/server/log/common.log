@@ -1,0 +1,31 @@
+2022-10-13 08:37:58,552 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:37:58.543443+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:47:10,895 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:47:10.886757+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:48:06,694 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:48:06.685782+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:48:28,248 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:48:28.239975+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:48:28,281 DEBUG     test [100, 25, 50, 75, 30]
+2022-10-13 08:49:01,401 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:49:01.392808+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:49:01,434 DEBUG     test (100, 25, 50, 75, 30)
+2022-10-13 08:49:47,096 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:49:47.087785+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:49:47,128 INFO      test (100, 25, 50, 75, 30)
+2022-10-13 08:50:21,182 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:50:21.173598+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}

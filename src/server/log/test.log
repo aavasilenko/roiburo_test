@@ -1,0 +1,18 @@
+2022-10-13 08:50:58,314 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:50:58.305567+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:51:57,747 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:51:57.738899+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:52:26,003 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:52:25.994838+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:52:26,038 INFO      test (100, 25, 50, 75, 30)
+2022-10-13 08:54:07,612 DEBUG     test Create cpu usage: 
+request: {'url': '/api/v1/core/system-states', 'method': 'post', 'data': {'cpu_usage': '25'}} 
+response status code: 201 
+response JSON: {'created': '2022-10-13T08:54:07.603835+03:00', 'cpu_usage': 25.0, 'source_ip': '127.0.0.1'}
+2022-10-13 08:54:07,648 INFO      test (30, 90, 80, 35, 20)

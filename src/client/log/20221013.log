@@ -1,0 +1,69 @@
+[2022-10-13 18:54:31,695]: INFO: Config file loading...
+[2022-10-13 18:54:31,695]: INFO: Interval: 5
+[2022-10-13 18:54:31,719]: INFO: CPU usage value '21.7' was saved
+[2022-10-13 18:54:36,737]: INFO: CPU usage value '3.9' was saved
+[2022-10-13 18:54:41,753]: INFO: CPU usage value '4.9' was saved
+[2022-10-13 18:54:46,771]: INFO: CPU usage value '5.2' was saved
+[2022-10-13 18:54:51,787]: INFO: CPU usage value '11.9' was saved
+[2022-10-13 18:54:56,806]: INFO: CPU usage value '6.2' was saved
+[2022-10-13 18:55:01,821]: INFO: CPU usage value '5.4' was saved
+[2022-10-13 18:55:06,836]: INFO: CPU usage value '8.0' was saved
+[2022-10-13 18:55:11,854]: INFO: CPU usage value '13.1' was saved
+[2022-10-13 18:55:16,869]: INFO: CPU usage value '28.2' was saved
+[2022-10-13 18:55:21,886]: INFO: CPU usage value '9.5' was saved
+[2022-10-13 18:55:26,900]: INFO: CPU usage value '10.4' was saved
+[2022-10-13 18:55:31,918]: INFO: CPU usage value '27.9' was saved
+[2022-10-13 18:55:36,932]: INFO: CPU usage value '21.3' was saved
+[2022-10-13 18:55:41,950]: INFO: CPU usage value '12.0' was saved
+[2022-10-13 18:55:46,968]: INFO: CPU usage value '5.0' was saved
+[2022-10-13 18:55:51,986]: INFO: CPU usage value '7.8' was saved
+[2022-10-13 18:55:57,001]: INFO: CPU usage value '4.1' was saved
+[2022-10-13 18:56:02,018]: INFO: CPU usage value '10.7' was saved
+[2022-10-13 18:56:07,035]: INFO: CPU usage value '7.6' was saved
+[2022-10-13 18:56:12,053]: INFO: CPU usage value '9.1' was saved
+[2022-10-13 18:56:17,068]: INFO: CPU usage value '22.3' was saved
+[2022-10-13 18:56:22,086]: INFO: CPU usage value '12.3' was saved
+[2022-10-13 18:56:27,101]: INFO: CPU usage value '12.6' was saved
+[2022-10-13 18:56:32,119]: INFO: CPU usage value '8.9' was saved
+[2022-10-13 18:56:37,138]: INFO: CPU usage value '4.3' was saved
+[2022-10-13 18:56:42,157]: INFO: CPU usage value '5.3' was saved
+[2022-10-13 18:56:47,176]: INFO: CPU usage value '3.6' was saved
+[2022-10-13 18:56:52,194]: INFO: CPU usage value '5.1' was saved
+[2022-10-13 18:56:57,210]: INFO: CPU usage value '2.9' was saved
+[2022-10-13 18:57:02,228]: INFO: CPU usage value '2.0' was saved
+[2022-10-13 18:57:07,245]: INFO: CPU usage value '2.8' was saved
+[2022-10-13 18:57:12,263]: INFO: CPU usage value '2.6' was saved
+[2022-10-13 18:57:17,280]: INFO: CPU usage value '2.6' was saved
+[2022-10-13 18:57:22,299]: INFO: CPU usage value '3.2' was saved
+[2022-10-13 18:57:27,317]: INFO: CPU usage value '3.5' was saved
+[2022-10-13 18:57:32,336]: INFO: CPU usage value '2.3' was saved
+[2022-10-13 18:57:37,353]: INFO: CPU usage value '3.6' was saved
+[2022-10-13 18:57:42,369]: INFO: CPU usage value '2.5' was saved
+[2022-10-13 18:57:47,387]: INFO: CPU usage value '2.6' was saved
+[2022-10-13 18:57:52,404]: INFO: CPU usage value '9.1' was saved
+[2022-10-13 18:57:57,422]: INFO: CPU usage value '17.5' was saved
+[2022-10-13 18:58:02,443]: INFO: CPU usage value '7.0' was saved
+[2022-10-13 18:58:07,462]: INFO: CPU usage value '9.0' was saved
+[2022-10-13 18:58:12,479]: INFO: CPU usage value '5.9' was saved
+[2022-10-13 18:58:17,493]: ERROR: API request error: response status code '500', response text: '
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Server Error (500)</title>
+</head>
+<body>
+  <h1>Server Error (500)</h1><p></p>
+</body>
+</html>
+'
+[2022-10-13 18:58:22,510]: ERROR: API request error: response status code '500', response text: '
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Server Error (500)</title>
+</head>
+<body>
+  <h1>Server Error (500)</h1><p></p>
+</body>
+</html>
+'

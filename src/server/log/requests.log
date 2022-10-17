@@ -1,0 +1,48 @@
+2022-10-13 10:31:01,863 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '86', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:01,863 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:01.856206+03:00","cpu_usage":5.3,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:06,888 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:06,889 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:06,889 DEBUG     django.request [36mb'cpu_usage=12.8'[0m
+2022-10-13 10:31:06,889 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:06,890 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:06,890 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:06.882624+03:00","cpu_usage":12.8,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:11,917 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:11,917 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:11,917 DEBUG     django.request [36mb'cpu_usage=22.0'[0m
+2022-10-13 10:31:11,918 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:11,918 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:11,918 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:11.908442+03:00","cpu_usage":22.0,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:16,942 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:16,943 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:16,944 DEBUG     django.request [36mb'cpu_usage=14.6'[0m
+2022-10-13 10:31:16,945 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:16,945 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:16,945 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:16.937511+03:00","cpu_usage":14.6,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:21,967 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:21,968 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:21,968 DEBUG     django.request [36mb'cpu_usage=15.4'[0m
+2022-10-13 10:31:21,968 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:21,968 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:21,969 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:21.962336+03:00","cpu_usage":15.4,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:26,989 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:26,990 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:26,990 DEBUG     django.request [36mb'cpu_usage=15.1'[0m
+2022-10-13 10:31:26,991 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:26,991 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:26,991 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:26.985730+03:00","cpu_usage":15.1,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:32,014 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:32,015 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:32,015 DEBUG     django.request [36mb'cpu_usage=17.2'[0m
+2022-10-13 10:31:32,015 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:32,016 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:32,016 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:32.008877+03:00","cpu_usage":17.2,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 10:31:37,038 INFO      django.request [36mPOST /api/v1/core/system-states[0m
+2022-10-13 10:31:37,038 DEBUG     django.request [36m{'Content-Length': '14', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+2022-10-13 10:31:37,039 DEBUG     django.request [36mb'cpu_usage=27.3'[0m
+2022-10-13 10:31:37,040 INFO      django.request [36mPOST /api/v1/core/system-states - 201[0m
+2022-10-13 10:31:37,041 DEBUG     django.request [36m{'Content-Type': 'application/json', 'Vary': 'Accept, Origin, Accept-Language, Cookie', 'Allow': 'POST, OPTIONS', 'X-Frame-Options': 'DENY', 'Content-Length': '87', 'Content-Language': 'en', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin'}[0m
+2022-10-13 10:31:37,041 DEBUG     django.request [36mb'{"created":"2022-10-13T10:31:37.032071+03:00","cpu_usage":27.3,"source_ip":"127.0.0.1"}'[0m
+2022-10-13 14:30:58,608 INFO      django.request [36mGET /api/v1/core/system-state-details[0m
+2022-10-13 14:30:58,608 DEBUG     django.request [36m{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Linux"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,nl;q=0.6', 'Cookie': '*****'}[0m
+2022-10-13 14:30:58,608 DEBUG     django.request [36mb''[0m
+2022-10-13 14:30:58,609 INFO      django.request [36mGET /api/v1/core/system-state-details - 200[0m
